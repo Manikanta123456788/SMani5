@@ -1,0 +1,87 @@
+div{
+    display: inline-block;
+    margin-right: 50px;
+}
+.mani{
+    margin-top: 50px;
+}
+.mani:hover{
+    opacity: 70%;
+}
+#Mani{
+    display: block;
+    padding-top: 10px;
+}
+a{
+    display: block;
+    padding-top: 30px;
+    text-decoration:none;
+    font-size: 22px;
+}
+.kanta{
+    display: inline-block;
+    margin-left: 250px;
+    padding-left: 100px;
+}
+.m:hover{
+   opacity: 70%;
+}
+.m{
+    display: inline-block;
+    margin: 0px;
+}
+nav{
+    display: inline-block;
+    border-radius: 10%;
+    margin-top: 50px;
+    padding-left: 30px;
+    position: fixed;
+}
+.kantaa{
+    padding-left:298px ;
+    display: inline-block;
+    margin: 50px;
+}
+.kantaaa{
+    text-align: center;
+    color: black;
+    margin-left: 300px;
+}
+.kantaaaa{
+    display: inline-block;
+    padding-left: 350px;
+}
+.kantaaaaa{
+    display: inline-block;
+    padding-left: 350px;
+}
+.man{
+    background-color:blue;
+    display:block;
+    text-align: right;
+    padding: 10px;
+    margin-left:350px;
+}
+.MAAn{
+    display: inline-block;
+    padding-left: 350px;
+}
+.Mann{
+    display: inline-block;
+    padding-left: 350px;
+}
+.kantaaA{
+    padding-left:350px;
+    width: 300px;
+    height: 20px;
+}
+body{
+    background-color: yellow;
+}
+button{
+    background-color: black;
+    color: white;
+}
+.man:hover{
+    opacity: 70%;
+}
